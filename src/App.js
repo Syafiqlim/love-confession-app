@@ -53,7 +53,7 @@ function App() {
           <span className="heart-icon">&#10084;</span>
         </div>
         <div className="love-letter">
-          <p>???,</p>
+          <p>Ain,</p>
           <p>Hint : tap tap screen 😆</p>
         </div>
         <div className="heart-animation">

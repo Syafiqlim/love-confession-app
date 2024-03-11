@@ -10,7 +10,7 @@ const HeartPop = ({ x, y, onAnimationEnd }) => {
   return (
     <div className="heart-pop" style={{ left: x, top: y }}>
       <span>&#10084;</span> {/* Heart icon */}
-      <span className="text">Siapa?</span> {/* Text */}
+      <span className="text">AIN</span> {/* Text */}
     </div>
   );
 };
